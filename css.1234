@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CSS Questions</title>
+<body>
+<p>1.) What dooes CSS stand for?
+   CSS stands for Cascading Style Sheets
+   2.) Why was CSS created
+   CSS was created because it can control the layout of many sites and because of its variety of use and its synergy with HTML
+   3.) How many methods are there for inserting style and what are they?
+   There are 3 ways of inserting styles.  The three methods are External Style Sheet, Internal Style Sheet, and Inline style sheet
+   4.)Explain in detail inline styles.  What are they?  Why and when are they used?  Are they the preferred method for inserting styles into web pages?  Why or why not?
+    We use and Inline style when we need to just change for example the style (ex. color) of a single element like a the whole paragraph.  This is not the preferred type of style do to the fact because it mixes a lot of its content with presentation
+    </body>
+    </html>
